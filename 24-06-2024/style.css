@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 1px solid red;
+    /*Largura*/
+    max-width: 1000px;
+    /*Centralizar*/
+    margin: 0 auto;
+}
+
+.header {
+    /*Altura*/
+    height: 100px;
+    /*Cor fundo*/
+    background: rgb(131, 2, 120);
+}
+
+.header h1 {
+    color: #fff;
+    text-transform: uppercase;
+    padding: 25px;
+}
+
+.content {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    /* flexbox */
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.lado-1, .lado-2 {
+    width: 100%;
+    max-width: 250px;
+}
