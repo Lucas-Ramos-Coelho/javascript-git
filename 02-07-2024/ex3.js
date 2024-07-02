@@ -35,3 +35,8 @@ const functions = [
   ];
   
   let frase = '';
+
+  for (let i = 0; i < functions.length; i++) {
+    frase += `${functions[i]()}`;
+  }
+  console.log(frase);
