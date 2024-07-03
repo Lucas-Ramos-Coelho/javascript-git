@@ -1,0 +1,6 @@
+#imagem {
+  position: absolute;
+  left: 0;
+  top: 50px;
+  transition: ease 1s;
+}

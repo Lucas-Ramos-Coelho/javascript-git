@@ -1,8 +1,3 @@
-/*
-
-  - Forme uma frase com o array abaixo e exiba-a no console.
-*/
-
 const functions = [
     function () { return 'Plymouth' },
     function () { return 'é' },
@@ -37,6 +32,6 @@ const functions = [
   let frase = '';
 
   for (let i = 0; i < functions.length; i++) {
-    frase += `${functions[i]()}`;
+    frase += `${functions[i]()} `;
   }
   console.log(frase);
