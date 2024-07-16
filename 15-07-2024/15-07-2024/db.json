@@ -1,0 +1,39 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "nome": "Lucas Coelho",
+      "email": "lucas.coelho@gmail.com"
+    },
+    {
+      "id": "2",
+      "nome": "Pedro João",
+      "email": "pedro.joao@gmail.com"
+    },
+    {
+      "id": "3",
+      "nome": "João Marcos",
+      "email": "joao.marcos@gmail.com"
+    },
+    {
+      "id": "4",
+      "nome": "Mateus Tome",
+      "email": "tome.mateus@gmail.com"
+    },
+    {
+      "id": "e755",
+      "nome": "Lucas Coelho",
+      "email": "coelho.lucas@gmail.com"
+    },
+    {
+      "id": "cc9f",
+      "nome": "Marcos",
+      "email": "MarcosCarvalho@gmail.com"
+    },
+    {
+      "id": "384a",
+      "nome": "erik",
+      "email": "erik"
+    }
+  ]
+}

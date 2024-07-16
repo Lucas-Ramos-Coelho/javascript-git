@@ -10,6 +10,7 @@ return(
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/Cadastro">Cadastro</Link></li>
                 <li><Link to="/Sobre">Sobre</Link></li>
+                <li><Link to="/ListagemNews">Listagem</Link></li>
             </ul>
         </nav>
     </header>
